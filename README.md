@@ -1,5 +1,5 @@
 # mydevop
 first version
-devops contains ansible 
-devops contains docker
+it contains python materials
+it contains coding information
 devops contains chef
